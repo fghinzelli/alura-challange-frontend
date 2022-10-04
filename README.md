@@ -1,2 +1,2 @@
-# alura-challange-frontend
+# alura-challenge-frontend
 Project AluraGeek
